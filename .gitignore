@@ -1,0 +1,15 @@
+# Keep this documentation repository free of local state and credentials.
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*service-account*.json
+*service_account*.json
+node_modules/
+.venv/
+*.zip
+ozel-inceleme/
+private/
+backups/
+exports/
