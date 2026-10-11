@@ -1,6 +1,12 @@
 # Sürüm notları
 
-**Sürüm:** 1.1.0 · **Tarih:** 11 Ekim 2026 · **Dil:** Türkçe
+**Sürüm:** 1.1.1 · **Tarih:** 11 Ekim 2026 · **Dil:** Türkçe
+
+## Bu sürümde değişenler
+
+- İlk kullanım; rehberi açma, metni kopyalama, AI'a gönderme ve soruları yanıtlama adımlarına ayrıldı.
+- Planlama ile geliştirme ayrıldı; boş proje klasörü, Codex/Claude Code masaüstü yolu ve kopyalanabilir geliştirme mesajı eklendi. Skill kurulumu isteğe bağlı kaldı.
+- Kişisel ad veya e-posta içermeyen, kit katkıcılarını topluca belirten [MIT lisansı](LICENSE) eklendi.
 
 ## İçerik
 
@@ -10,7 +16,7 @@ Bu kit belirli bir kişinin uygulamasını, verilerini, teknoloji tercihlerini v
 
 ## Kontroller
 
-Bu sürümde dosya izin listesi, 17 göreli bağlantı, skill önbilgisi, sentetik hesap örnekleri ve hedefli gizlilik taraması kontrol edildi; skill biçim doğrulayıcısı geçti. İçerik ayrıca gözden geçirildi. Bu kontroller tüm riskleri ortadan kaldırma garantisi değildir. Skill biçiminin geçerli olması, AI'ın her durumda doğru davranacağını kanıtlamaz. Üç ihtiyaç üzerinden yapılan masa başı öz değerlendirme, gerçek kullanıcı testi değildir.
+Dosya izin listesi, paket içi bağlantılar, skill önbilgisi, sentetik hesap örnekleri ve hedefli gizlilik taraması kontrol edildi; skill biçim doğrulayıcısı geçti. Başlangıç adımları resmî belgelerle karşılaştırıldı. İçerik ayrıca gözden geçirildi. Bu kontroller tüm riskleri ortadan kaldırma garantisi değildir. Skill biçiminin geçerli olması, AI'ın her durumda doğru davranacağını kanıtlamaz. Üç ihtiyaç üzerinden yapılan masa başı öz değerlendirme, gerçek kullanıcı testi değildir.
 
 ## Sınırlamalar
 
